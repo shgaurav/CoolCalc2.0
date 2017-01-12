@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gaurav\AndroidStudioProjects\CoolCalc\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Gaurav\AndroidStudioProjects\CoolCalc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.1_6681dac46941d9f2f4d0edf5d6f18a9c31972666\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gaurav\AndroidStudioProjects\CoolCalc\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\Gaurav\AndroidStudioProjects\CoolCalc\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_62829ec995f9842b766ec3edcd93dc93e55f4bf2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gaurav\AndroidStudioProjects\CoolCalc\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f6a1a9534186ba3fe60508a3f4cffd2579ec14f1">
+        <dex dex="C:\Users\Gaurav\AndroidStudioProjects\CoolCalc\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_cefede2354b0ec3a7b51b708490fd2069b0caf20\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gaurav\AndroidStudioProjects\CoolCalc\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\Gaurav\AndroidStudioProjects\CoolCalc\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_94f4992665e0620bb42fe3a2f54fc4a15328f9d7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gaurav\AndroidStudioProjects\CoolCalc\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\Gaurav\AndroidStudioProjects\CoolCalc\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_8525b2059777d2003a29d279f8525e8f5c2c95fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gaurav\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\Gaurav\AndroidStudioProjects\CoolCalc\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_ce6eaf86cd0709eeea762d48df9468d4f53de683\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gaurav\AndroidStudioProjects\CoolCalc\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\Gaurav\AndroidStudioProjects\CoolCalc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.1_10dc4bea3c959cc07f5d9fb47fbba0f95638a5cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gaurav\AndroidStudioProjects\CoolCalc\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\Gaurav\AndroidStudioProjects\CoolCalc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.1_6ad58f0ce70081186616977c9687175875c90d98\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gaurav\AndroidStudioProjects\CoolCalc\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\Gaurav\AndroidStudioProjects\CoolCalc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.1_edd5eb18f60612a6f79338c8b03af1de53e819ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gaurav\AndroidStudioProjects\CoolCalc\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\Gaurav\AndroidStudioProjects\CoolCalc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.1_670f76e5a30a46354e93967c5dd977ec616813b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gaurav\AndroidStudioProjects\CoolCalc\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Users\Gaurav\AndroidStudioProjects\CoolCalc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.4.0_0069fd57f254ed89bb2993a34e50ed636913889a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gaurav\AndroidStudioProjects\CoolCalc\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\Gaurav\AndroidStudioProjects\CoolCalc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.1_94b01b39efdcbf8cab101a55dd0da4454073536c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gaurav\AndroidStudioProjects\CoolCalc\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\Gaurav\AndroidStudioProjects\CoolCalc\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_f2c7a62f8ecf1138b3292a1b6b95782545a0d5c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gaurav\AndroidStudioProjects\CoolCalc\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\Gaurav\AndroidStudioProjects\CoolCalc\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_323a35b0a778a0121fd1dd1d3240a00f457b5725\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gaurav\AndroidStudioProjects\CoolCalc\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="C:\Users\Gaurav\AndroidStudioProjects\CoolCalc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-8.4.0_b4260f60e0511003726cb79f72009c51a6bbdcce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gaurav\AndroidStudioProjects\CoolCalc\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\Gaurav\AndroidStudioProjects\CoolCalc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.1_b4bdf4277e552fe5feba12e1b112d7a2465b2c6f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gaurav\AndroidStudioProjects\CoolCalc\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aa87f5218d43015f91c027a27f7ad12e66610bf2">
+        <dex dex="C:\Users\Gaurav\AndroidStudioProjects\CoolCalc\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_9e3b065901a459d1724955f7dbe91fd87d46213f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gaurav\AndroidStudioProjects\CoolCalc\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\Gaurav\AndroidStudioProjects\CoolCalc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.1_826621427854a13ca7eb2394f90236704c3ff228\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gaurav\AndroidStudioProjects\CoolCalc\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="C:\Users\Gaurav\AndroidStudioProjects\CoolCalc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-8.4.0_45ddd5f796ef48dc05abeb963900a96226de7ace\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Gaurav\AndroidStudioProjects\CoolCalc\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\Gaurav\AndroidStudioProjects\CoolCalc\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.1_9d850f01628611a393a67bac2b75fced62fafddb\classes.dex" />
+    </item>
+
+</items>
